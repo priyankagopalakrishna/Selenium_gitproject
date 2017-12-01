@@ -34,6 +34,7 @@ public class NonrepeatingElements {
         }
         System.out.println("");
        // System.out.println("Number of non repeated elements are:"+count);
+        System.out.println("Test1");
         
         
 	}
